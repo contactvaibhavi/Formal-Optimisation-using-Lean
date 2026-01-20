@@ -1,0 +1,10 @@
+name = "FormalOptimisationUsingLean"
+version = "0.1.0"
+defaultTargets = ["formaloptimisationusinglean"]
+
+[[lean_lib]]
+name = "FormalOptimisationUsingLean"
+
+[[lean_exe]]
+name = "formaloptimisationusinglean"
+root = "Main"
