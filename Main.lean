@@ -1,4 +1,4 @@
-import FormalOptimisationUsingLean
-
-def main : IO Unit :=
-  IO.println s!"Hello, {hello}!"
+import LeanOptimization.Basic
+import LeanOptimization.Assumptions
+import LeanOptimization.Algorithms
+import LeanOptimization.Theorems
